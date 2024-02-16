@@ -1,4 +1,4 @@
-const {sumar, restar, multiplicar, dividir} = require('./Operaciones.js');
+import {sumar, restar, multiplicar, dividir} from './Operaciones.js';
 
 console.log("Suma 9 + 3: " + sumar(9, 3));
 console.log("Resta 9 - 3: " + restar(9, 3));

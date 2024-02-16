@@ -42,4 +42,4 @@ function dividir(num1, num2){
     return num1 / num2;
 }
 
-module.exports = {sumar, restar, multiplicar, dividir}
+export {sumar, restar, multiplicar, dividir}
